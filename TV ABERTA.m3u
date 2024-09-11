@@ -1,15 +1,13 @@
 =====[ Tv Aberta ]=====
-#EXTINF:0,Globo
-https://canal.cdntv.com.br/live/robert123/robert123/12.m3u8
-#EXTINF:0 logo=https://i.imgur.com/srURmsi.png ,SBT
+#EXTINF:0 logo=https://i.imgur.com/srURmsi.png  ,SBT
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/RDekR7e.png ,Record Tv
+#EXTINF:0 logo=https://i.imgur.com/RDekR7e.png  ,Record Tv
 https://tvconquistalrv.duckdns.org/hls/tvconquistalrv.m3u8
-#EXTINF:0 logo=https://imgur.com/a/ZlbQuiL.png ,Tv Pampa
+#EXTINF:0 logo=https://imgur.com/a/ZlbQuiL.png  ,Tv Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/b92nQTD.png ,Band
+#EXTINF:0 logo=https://i.imgur.com/b92nQTD.png  ,Band
 https://canal.cdntv.com.br/live/robert123/robert123/88.m3u8
 #EXTINF:0,Tv Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:0 logo=https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg ,TVE RS
+#EXTINF:0 logo=https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg  ,TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
